@@ -1,17 +1,17 @@
 
 
-
-
-
-
-
 def solve():
     ...
 
 
 
+def input_args():
+    return 
 
+def test():
+   return 
 
-#
 if __name__=="__main__":
-    input()
+    args = input_args()
+    # test()
+    solve(*args)
