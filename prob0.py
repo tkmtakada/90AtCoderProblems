@@ -6,12 +6,12 @@ def solve():
 
 
 def input_args():
-    return 
+    return []
 
 def test():
-   return 
+   return []
 
 if __name__=="__main__":
     args = input_args()
-    # test()
+    # args = test()
     solve(*args)
