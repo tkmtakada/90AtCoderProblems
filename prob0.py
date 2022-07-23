@@ -9,7 +9,7 @@ def input_args():
     return []
 
 def test():
-   return []
+    return []
 
 if __name__=="__main__":
     args = input_args()
