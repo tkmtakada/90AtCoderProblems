@@ -2,7 +2,7 @@
 
 def solve():
     ...
-
+    return 0
 
 
 def input_args():
